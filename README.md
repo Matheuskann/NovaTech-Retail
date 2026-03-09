@@ -80,7 +80,7 @@ Identificação e correção de problemas no dataset original:
 
 > 🚨 **Principal alerta:** 52,1% dos pedidos foram cancelados ou devolvidos. Resolver esse problema pode gerar mais de R$ 3 milhões adicionais ao ano.
 
-📄 [Ver relatório completo com todos os insights →](./relatorio_vendas_novatech_2024.md)
+📄 [Ver relatório completo com todos os insights →](./relatorio vendas novatech retail.md)
 
 ---
 
