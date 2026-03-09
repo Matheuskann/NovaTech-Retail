@@ -12,6 +12,7 @@ Projeto de análise de dados de vendas da NovaTech Retail, cobrindo limpeza, org
 ├── relatorio vendas novatech retail.md   ← análise completa com insights
 └── company_sales_dataset.xlsx          ← dataset original
 └── clean_sales_data.csv         ← dado limpo
+└── Graficos                       ←Prints dos Graficos
 ```
 
 ---
