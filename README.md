@@ -9,7 +9,7 @@ Projeto de análise de dados de vendas da NovaTech Retail, cobrindo limpeza, org
 ```
 📁 novatech-sales-analysis
 ├── README.md                           ← você está aqui
-├── relatorio_vendas_novatech_2024.md   ← análise completa com insights
+├── relatorio vendas novatech retail.md   ← análise completa com insights
 └── company_sales_dataset.xlsx          ← dataset original
 ```
 
@@ -80,7 +80,6 @@ Identificação e correção de problemas no dataset original:
 
 > 🚨 **Principal alerta:** 52,1% dos pedidos foram cancelados ou devolvidos. Resolver esse problema pode gerar mais de R$ 3 milhões adicionais ao ano.
 
-📄 [Ver relatório completo com todos os insights →](./relatorio vendas novatech retail.md)
 
 ---
 
