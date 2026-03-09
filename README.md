@@ -87,4 +87,4 @@ Identificação e correção de problemas no dataset original:
 ## 👤 Autor
 
 **Matheus**  
-Projeto desenvolvido como parte de um desafio de análise de dados para a NovaTech Retail com ajuda de IA.
+Projeto desenvolvido como parte de um desafio de análise de dados para a NovaTech Retail(empresa ficticia) com ajuda de IA.
