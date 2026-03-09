@@ -2,7 +2,7 @@
 
 Projeto de análise de dados de vendas da NovaTech Retail, cobrindo limpeza, organização, criação de tabelas dinâmicas e extração de insights estratégicos a partir de 1.000 registros reais de 2024.
 
----
+---Link do dado limpo e analisado aqui: https://docs.google.com/spreadsheets/d/1u5Stms85ph6zAISEDUH8WkqZGMjHardsgh6AeYu4TmA/edit?usp=sharing
 
 ## 🗂️ Estrutura do Repositório
 
@@ -30,6 +30,7 @@ Organizar, limpar e analisar um dataset de vendas bagunçado (como acontece no m
 ## 🛠️ Ferramentas Utilizadas
 
 - **Google Sheets** — limpeza, organização, tabelas dinâmicas e gráficos
+  
 
 ---
 
